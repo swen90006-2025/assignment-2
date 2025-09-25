@@ -1,21 +1,21 @@
-Group Number:
+Group Number: 30
 
 Member-1:
-- Name:
+- Name: Huaxin Ren
 - Student ID:
 - Email:
 
 Member-2:
-- Name:
+- Name: Jiarui Zhou
 - Student ID:
 - Email:
 
 Member-3:
-- Name:
+- Name: Shiyu Sun
 - Student ID:
 - Email:
 
 Member-4:
-- Name:
+- Name: Zilin Xu
 - Student ID:
 - Email:
