@@ -1,9 +1,9 @@
-Group Number:
+Group Number: 9
 
 Member-1:
-- Name:
-- Student ID:
-- Email:
+- Name: Tannaz Chitsaz
+- Student ID: 1620852
+- Email: tannaz.chitsaz@student.unimelb.edu.au
 
 Member-2:
 - Name:
